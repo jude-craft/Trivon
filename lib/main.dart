@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:trivon/views/screens/home_screen.dart';
+import 'package:trivon/core/routes/app_routes.dart';
 
 void main() {
   runApp(const QuizApp());
@@ -16,7 +16,8 @@ class QuizApp extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true
       ),
-      home: HomeScreen(),
+      initialRoute: AppRoutes.home,
+      onGenerateRoute: AppRoutes.onGenerateRoute,
     );
   }
 }
