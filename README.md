@@ -97,53 +97,25 @@ lib/
 ## 📱 Screenshots
 
 ### Home Screen
-```
-[Add your home screen screenshot here]
-Screenshot showing:
-- Flutter & Dart Quiz Challenge title
-- Quiz info: 10 Questions • Multiple Topics
-- Start Quiz button
-- Cyan/Teal gradient background
-```
+<p align="center">
+  <img src="assets/screenshots/home.jpeg" width="200" alt="Home screen">
+ </p>
 
 ### Quiz Screen
-```
-[Add your quiz screen screenshot here]
-Screenshot showing:
-- Question counter (Q1/10)
-- Timer (15s)
-- Current score
-- Question with category badge
-- Four colored answer options (A, B, C, D)
-- Progress bar at top
-```
-
-### Answer Feedback
-```
-[Add your feedback screenshot here]
-Screenshot showing:
-- Correct answer highlighted in green with checkmark
-- Animated feedback message
-- Option visual distinction
-```
+<p align="center">
+  <img src="assets/screenshots/quiz.jpeg" width="200" alt="Quiz screen">
+  </p>
 
 ### Results Screen
-```
-[Add your results screen screenshot here]
-Screenshot showing:
-- Trophy icon with animation
-- Quiz Completed! title
-- Performance message (Outstanding!/Good Job!/Keep Practicing!)
-- Final score (e.g., 8/10)
-- Percentage (e.g., 80%)
-- Home and Retake buttons
-```
+<p align="center">
+  <img src="assets/screenshots/result.jpeg" width="200" alt="Result screen">
+  </p>
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
-- Flutter SDK (version 2.0 or higher)
+- Flutter SDK (version 3.0 or higher)
 - Dart SDK
 - Android Studio / Xcode / Visual Studio Code
 - Android emulator or iOS simulator (or physical device)
@@ -152,7 +124,7 @@ Screenshot showing:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/flutter-dart-quiz.git
+   git clone https://github.com/jude-craft/flutter-dart-quiz.git
    cd flutter-dart-quiz
    ```
 
@@ -388,8 +360,7 @@ in the Software without restriction...
 If you have any questions, issues, or suggestions:
 
 - **Open an Issue** on GitHub
-- **Email**: your-email@example.com
-- **Discord**: [Join our community](link-to-discord)
+- **Email**: derekjude254@gmail.com
 
 ## 📚 Learning Resources
 
@@ -459,6 +430,6 @@ If you have any questions, issues, or suggestions:
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Jude**
 
 **Happy Learning! 🚀**
