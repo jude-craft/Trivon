@@ -1,4 +1,4 @@
-# 🎯 Flutter & Dart Quiz Kahoot
+# Flutter & Dart Quiz Kahoot
 
 A beautifully designed, interactive quiz application built with Flutter using **MVVM Architecture** to help beginners learn Flutter, Dart, and mobile development concepts in a fun and engaging way.
 
@@ -361,14 +361,6 @@ If you have any questions, issues, or suggestions:
 
 - **Open an Issue** on GitHub
 - **Email**: derekjude254@gmail.com
-
-## 📚 Learning Resources
-
-### Flutter & Dart
-- [Flutter Official Documentation](https://flutter.dev/docs)
-- [Dart Language Tour](https://dart.dev/guides/language/language-tour)
-- [Flutter Widgets Catalog](https://flutter.dev/docs/development/ui/widgets)
-- [Effective Dart Guide](https://dart.dev/guides/language/effective-dart)
 
 ### Architecture & Design Patterns
 - [MVVM Pattern Explanation](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
