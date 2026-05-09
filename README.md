@@ -52,7 +52,7 @@ A beautifully designed, interactive quiz application built with Flutter using **
   - Reusable widgets and components
   - Easy to extend and maintain
 
-## 🏗️ Architecture
+##  Architecture
 
 This project implements **MVVM (Model-View-ViewModel)** architecture:
 
